@@ -58,6 +58,15 @@ So it's clear that:
 
 ---
 
+## Example Query
+
+Query: "I like animals"
+
+Top Results:
+- I love dogs
+- Cats are cute
+- Pets are amazing companions
+
 ## Limitations
 - Very small dataset
 - No UI
@@ -72,6 +81,7 @@ So it's clear that:
 - Maybe deploy it
 
 ---
+
 
 ## Author
 Neha
